@@ -1,0 +1,13 @@
+- **Avoid full address**: Do not include your full address on the resume to prevent potential bias; use only city and state instead.
+- **Omit upfront years of experience**: Remove phrases like 14 years of experience from the summary to avoid ageism; let dates in the experience section reveal this.
+- **Include a professional title**: Add a clear professional title at the top, and choose one that matches the job you're applying for if multiple options exist.
+- **Add skills section at the top**: Place a skills section early, organized into categories (e.g., technical skills, project management) with ATS-friendly buzzwords from job descriptions.
+- **Expand and relocate skills**: If skills are at the end, move them up and expand with relevant software, apps, and job-specific terms; avoid burying them in bullet points.
+- **Focus on metrics and outcomes in bullet points**: Include quantifiable metrics (e.g., sped up by 30%) and their outcomes (e.g., resulting in 20% revenue increase); be specific, realistic, and avoid vagueness.
+- **Vary bullet point quantity**: Use more bullet points for recent, relevant positions and fewer for older ones.
+- **Limit to one page**: Keep the resume to one page unless you're an executive, senior leader, or have 15+ years; exclude experience older than 10 years.
+- **Make links clickable**: Ensure LinkedIn and email are hyperlinks for easy access.
+- **Handle education dates carefully**: Include only the graduation year if preferred, but omit start and end years to avoid ageism.
+- **Detail certifications**: List certifications with receipt date and expiration date if applicable.
+- **Skip references phrase**: Do not include references available upon request; provide them only if asked.
+- **Exclude hobbies**: Omit hobbies and personal interests unless you're a recent graduate or they're directly job-related to prevent bias.

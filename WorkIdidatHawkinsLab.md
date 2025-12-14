@@ -1,0 +1,10 @@
+1. **Assisted in psychic ability testing**: Henry helped calibrate equipment to measure and document the psychokinetic powers of test subjects, including himself, under Dr. Brenner's supervision.
+2. **Maintained experimental records**: He meticulously logged data from MK-Ultra-inspired trials, ensuring accurate documentation of sensory deprivation and hallucinogenic experiments.
+3. **Prepared test environments**: Henry set up isolation chambers and sensory deprivation tanks, preparing them for sessions aimed at unlocking interdimensional phenomena.
+4. **Monitored subject vitals**: During experiments, he tracked heart rates, brainwaves, and other physiological data using early EEG machines and medical devices.
+5. **Conducted preliminary screenings**: He interviewed and evaluated potential new subjects, assessing their psychological profiles for suitability in the lab's psychic research program.
+6. **Handled equipment sterilization**: Henry ensured all lab tools, including electrodes and restraints, were properly cleaned and maintained to prevent contamination in sensitive experiments.
+7. **Participated in data analysis**: He collaborated with scientists to interpret results from trials, identifying patterns in psychic manifestations and their links to the Upside Down.
+8. **Managed supply inventories**: He kept track of chemicals, pharmaceuticals, and specialized gear, ordering replacements for items used in mind-altering experiments.
+9. **Escorted subjects**: Henry transported and supervised test subjects between facilities, ensuring security and compliance during high-risk procedures.
+10. **Documented anomalous events**: He recorded unexpected occurrences, such as dimensional rifts or unexplained visions, contributing to the lab's growing database on supernatural phenomena.
