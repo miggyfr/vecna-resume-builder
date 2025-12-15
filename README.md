@@ -6,6 +6,23 @@ Welcome to the Vecna Resume Builder, a creative and powerful tool designed to he
 
 To get started, follow these chronological instructions. They cover setup, daily use, customization, and ongoing maintenance. Remember, this tool empowers you to refine your applications, but always review and personalize the results before submitting them. If you encounter any issues or need clarification, feel free to ask—I am here to assist.
 
+### 0. Initial Setup with AI Services
+The Vecna Resume Builder is designed to work with various AI services that support creating and managing projects (e.g., ChatGPT's projects feature, Perplexity's Labs, Grok's projects, or similar on other platforms). This allows you to organize all the system's files and interactions in one dedicated space for easy access and continuity. Choose your preferred AI service that supports project creation, as long as it can handle file uploads, text analysis, and conversational interactions.
+
+- **Download the Project Files**: Start by downloading the zip file from the GitHub repository (e.g., the vecna-resume-builder project). Extract it to a local folder on your computer. This will give you all the base templates, example files, and documentation needed to get started.
+
+- **Tailor the Template Files**: Open the extracted files and customize them to match your personal background, taste, and preferences. For example:
+  - Edit BaseResume.md to reflect your real experiences, skills, and achievements (using the provided example for Henry Creel as a guide).
+  - Update key skills templates (like keyskills_template_CreelHenry.md) with your own competencies, organized into categories such as core skills and technical abilities.
+  - Modify resume and cover letter templates (e.g., resume_template_CreelHenry.md and coverletter_template_CreelHenry.md) by filling in placeholders with your name, contact details, and a professional summary.
+  - Add or create "work I did at [company]" files (e.g., WorkIdidatHawkinsLab.md or WorkIdidatTheUpsideDownSyndicate.md) for each relevant job or project in your history. Include details like responsibilities, achievements, and metrics. Add as many of these as needed to cover your full experience.
+
+- **Modify the Job Agent Instructions (If Necessary)**: Review the job agent instructions file (if present in the download) and update it to reference your new "work I did at [company]" files. This ensures the system can pull from your tailored experiences when analyzing job postings and generating outputs.
+
+- **Copy Files into Your AI Project**: Create a new project in your chosen AI service (e.g., a "Vecna Resume Builder" project in ChatGPT or a lab in Perplexity). Upload or copy all the tailored files from your local folder into this project. This centralizes everything, making it easy for the AI to reference them during interactions.
+
+Once set up, you're ready to use the system. To start, simply say: "Study this job posting" followed by pasting the link or full text of a job posting. The Vecna Resume Builder will then analyze it, provide insights, and generate customized outputs as described in the sections below.
+
 ### 1. Prepare Your Foundation: Setting Up the Base Files
 Before you begin using the system, establish a solid base to ensure accurate and effective outputs. This step involves gathering or creating the core files that the builder references.
 
